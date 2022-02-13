@@ -1,3 +1,10 @@
+This is to demo:
+- useState with objects
+- page navigation
+- redux
+- some more
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
